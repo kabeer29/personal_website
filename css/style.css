@@ -1,0 +1,37 @@
+.top{background-color: #E4F9F5;
+position:relative;
+padding: 100px
+}
+
+body{margin: 0;
+text-align: center;
+font-family: cursive;}
+
+h1
+{margin-top: 50px;
+font-size: 3.12rem}
+hr{
+   border-style: none;
+   border-top-style:dotted;
+  border-color:grey;
+   border-width: 5px;
+   width:5%;}
+
+.post{ font-size:2rem }
+
+
+.top-cloud{position: absolute;right:200px}
+.bottom-cloud{position: absolute;  left: 200px;}
+
+.my-image{width: 200px;}
+.skills-image{border-radius: 100%;  width: 300px;  float: left;margin-right: 100px;}
+.develop-img{float:right;}
+.mountain-image{position: relative;  top: 105px;}
+.skill-row{width: 50%;margin: 100px auto 100px auto;text-align: left;line-height:2;}
+.profile{margin-top: 100px; margin-bottom: 100px;}
+.bottom-container{height: 200px;
+background-color: cyan}
+.footer-link-middle{padding-right: 50px;padding-left: 50px;}
+.link-contact{padding-top: 46px;color: #11999E}
+.name{padding-top: 38px;}
+a{color:#11999E}
